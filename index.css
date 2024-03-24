@@ -1,6 +1,6 @@
 index.css
 .topnav {
-  background-color: #333;
+  background-color: #212121;
   overflow: hidden;
   position: fixed;
   top: 0;
@@ -9,7 +9,7 @@ index.css
 
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #ffb7b7;
   font-style: italic;
   text-align: center;
   padding: 14px 16px;
