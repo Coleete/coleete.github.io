@@ -1,8 +1,10 @@
 .btn btn-primary btn-lg {
   width: 50px;
   height: 50px;
+  float: left;
 }
 .btn btn-primary btn-sm {
   width: 10px;
   height: 10px;
+  float: left;
 }
